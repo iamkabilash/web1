@@ -1,8 +1,18 @@
 html {
-  background-color: #1d1d1d;
+  background-color: #100d27;
   font-size: 18px;
   color: #c51111;
+  text-align: center;
+}
+h1 {
+  font-size: 36px;
+  color: #fff;
 }
 h2 {
+  font-size: 24px;
+  color: aqua;
+}
+p {
   font-size: 18px;
+  color: aqua;
 }
